@@ -1,0 +1,23 @@
+{
+  "name": "cron-expression-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christian-naykene/cron-expression-parser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christian-naykene/cron-expression-parser/issues"
+  },
+  "homepage": "https://github.com/christian-naykene/cron-expression-parser#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
