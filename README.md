@@ -26,3 +26,9 @@ npm install
 ```bash
 node cron-parser.js "_/15 0 1,15 _ 1-5 /usr/bin/find"
 ```
+
+5. **Test:**
+
+```bash
+npm test -- "_/15 0 1,15 _ 1-5 /usr/bin/find"
+```
